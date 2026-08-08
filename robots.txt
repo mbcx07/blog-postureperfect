@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://postureperfect.com/blog-postureperfect/sitemap.xml
